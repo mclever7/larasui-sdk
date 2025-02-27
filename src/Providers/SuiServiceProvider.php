@@ -1,6 +1,6 @@
 <?php
 
-namespace Mclever\LarasuiSdk;
+namespace Mclever\LarasuiSdk\Providers;
 
 use Mclever\LarasuiSdk\SuiClient;
 //use Illuminate\Support\Facades\Config;

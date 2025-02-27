@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'mclever/larasui-sdk',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '1c4ea8fc226280362bd356c2cb5ecb21d6dd3367',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -74,9 +74,9 @@
             'dev_requirement' => false,
         ),
         'mclever/larasui-sdk' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '1c4ea8fc226280362bd356c2cb5ecb21d6dd3367',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
