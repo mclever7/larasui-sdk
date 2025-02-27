@@ -1,0 +1,32 @@
+{
+    "name": "mclever/larasui-sdk",
+    "description": "A Laravel SDK for interacting with Sui Move blockchain",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mclever\\LarasuiSdk\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mclever\\LarasuiSdk\\Providers\\SuiServiceProvider"
+            ],
+            "aliases": {
+                "Sui": "Mclever\\LarasuiSdk\\Facades\\Sui"
+            }
+        }
+    },
+    "authors": [
+        {
+            "name": "Clever Emete",
+            "email": "cedextechs@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0",
+        "illuminate/support": "^10.48"
+    }
+}
