@@ -1,6 +1,6 @@
 {
     "name": "mclever/larasui-sdk",
-    "description": "A Laravel SDK for interacting with the SUI blockchain.",
+    "description": "A Laravel SDK for interacting with the SUI Move blockchain.",
     "type": "library",
     "license": "MIT",
     "autoload": {
