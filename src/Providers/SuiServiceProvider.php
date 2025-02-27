@@ -39,7 +39,7 @@ class SuiServiceProvider extends ServiceProvider
      */
     protected function getConfigPath()
     {
-        return __DIR__ . '/../config/sui.php';
+        return __DIR__ . '/../../config/sui.php';
     }
 
     /**
