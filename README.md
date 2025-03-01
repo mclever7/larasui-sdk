@@ -222,7 +222,7 @@ Built by [Mr clever](https://x.com/mr_clever4) with  for the Sui and Laravel com
 
 ## Support
 
-For questions or issues, please open an issue on [GitHub](https://github.com/mclever/larasui-sdk/issues).
+For questions or issues, please open an issue on [GitHub](https://github.com/mclever7/larasui-sdk/issues).
 
 ---
 
